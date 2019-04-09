@@ -11,7 +11,8 @@ Complete the following Stories by updating the ARM Template provided.
 
 ## Extra Credit
 
-TODO: Should we add something here @Adam
+- Minimise template duplication
+- Ensure ARM Template contains no sensitive information
 
 ## Task Stories
 
