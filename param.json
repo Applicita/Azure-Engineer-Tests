@@ -1,0 +1,17 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "paramObject": {
+            "value": {                
+                "addressSpace": "10.10.0.0/24",         
+                "count": 1,                
+                "prefix": "azuretest",
+                "adminUserName": "testadmin",
+                "adminPassword": "gdhjsrFALLS!!",
+                "size": "Standard_B2ms",
+                "storageType": "Standard_LRS"
+            }
+        }
+    }
+}
